@@ -1,0 +1,16 @@
+##############################################################
+#
+# List of approvers/reviewers for rad-unnumbered
+#
+##############################################################
+#
+# More information about component / team:
+#  https://collaborate.akamai.com/confluence/display/RS/rad-unnumbered
+# 
+#
+# Learn about CODEOWNERS file format: 
+#  https://help.github.com/en/articles/about-code-owners
+#
+
+# These owners will be the default owners for everything in the repo.
+* @dkopec @kkwasny @tpaler @mskotnic @psuchy @mwarzech
